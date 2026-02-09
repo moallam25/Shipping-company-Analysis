@@ -39,6 +39,16 @@ business performance and support data-driven decisions.
 - The model performance was evaluated using accuracy and classification metrics.
 - The analysis provides insights that can help improve decision-making
   within the shipping company.
+  ## Key Performance Indicators (KPIs) 📊
+
+- **Total Sales:** 2297200.86
+- **Total Profit:** 286397.02
+- **Average Discount:**  0.16
+- **Average Order Quantity:** 3.79 items
+- **Most Profitable Product:** Canon imageCLASS 2200 Advanced Copier
+- **Most Sales Category:** Technology
+- **Segment with Highest Sales:** Consumer
+
 
 ## Author
 Mostafa Allam
